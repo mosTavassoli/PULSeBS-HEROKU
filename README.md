@@ -1,9 +1,7 @@
 # PULSeBS
 
-Pandemic University Lecture Seat Booking System.
-
-The web-based application formed on the Scrum process comprises six people in the group. It implements managing to book a seat for university lectures, including multiple authorized users. The chief achievement concerning this project is to represent the real-world scrum working environment equipped with new technologies.
-
+Pandemic University Lecture Seat Booking System.<br/>
+The web-based application formed on the Scrum process comprises six people in the group. It implements managing to book a seat for university lectures, including multiple authorized users. The chief achievement concerning this project is to represent the real-world scrum working environment equipped with new technologies.<br/>
 Technologies used: React-JS, PHP, Agile, Jira, Git, SonarCloud, Cypress, Bootstrap, Material-UI, SQLite, Docker
 
 ## Run
@@ -28,7 +26,7 @@ On the first page, log in to the system via preloaded account [here](./server/RE
 ![LoginPage](PICs/logInPage.png)
 
 #### Booking Manager Pages
-As a booking manager I want to generate a contact tracing report starting with a positive student so that we comply with safety regulations<br/>
+As a booking manager I want to generate a contact tracing report starting with a positive student so that we comply with safety regulations.<br/>
 The medical officials communicate the name of the student to the university, the manager is tasked with entering the info on the positive student and get a full list (a PDF and a CSV) with all the contacts (based on co-presence in the lectures)
 ![ContactTracing](PICs/ContactTracing.png)
 ![StudentsDetails](PICs/StudentsDetails.png)
