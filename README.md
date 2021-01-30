@@ -28,6 +28,7 @@ As a booking manager I want to generate a contact tracing report starting with a
 ![ContactTracing](PICs/ContactTracing.png)
 ![StudentsDetails](PICs/StudentsDetails.png)
 
+### Booking Manager Pages
 As a booking manager I want to monitor usage (booking, cancellations, attendance) of the system.
 ![BookinManager](PICs/BookinManager.png)
 ![MonthlyStatistics](PICs/MonthlyStatistics.png)
