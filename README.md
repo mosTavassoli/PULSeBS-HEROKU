@@ -20,7 +20,7 @@ These are some snapshots of this WebApp; for utilizing the App entirely, you can
 
 #### Login Page
 
-On the first page, log in to the system via [here](./server/README.md).
+On the first page, log in to the system via preloaded account [here](./server/README.md).
 ![LoginPage](PICs/logInPage.png)
 
 #### Booking Manager Pages
