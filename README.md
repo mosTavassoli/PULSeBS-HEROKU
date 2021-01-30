@@ -12,3 +12,10 @@ You can check the emails to localhost:8025 logging in with "francexi" and passwo
 
 ## Screenshot
 ![LoginPage](PICs/logInPage.png)
+![UploadFiles](PICs/UploadFiles.png)
+![BookinManager](PICs/BookinManager.png)
+![Calendar](PICs/Calendar.png)
+![ContactTracing](PICs/ContactTracing.png)
+![MonthlyStatistics](PICs/MonthlyStatistics.png)
+![UpdateLectureList](PICs/UpdateLectureList.png)
+![StudentsDetails](PICs/StudentsDetails.png)
