@@ -23,6 +23,7 @@ These are some snapshots of this WebApp; for utilizing the App entirely, you can
 On the first page, log in to the system via [here](./server/README.md)
 ![LoginPage](PICs/logInPage.png)
 
+### Booking Manager Pages
 As a booking manager I want to generate a contact tracing report starting with a positive student so that we comply with safety regulations.
 ![ContactTracing](PICs/ContactTracing.png)
 ![StudentsDetails](PICs/StudentsDetails.png)
@@ -31,9 +32,11 @@ As a booking manager I want to monitor usage (booking, cancellations, attendance
 ![BookinManager](PICs/BookinManager.png)
 ![MonthlyStatistics](PICs/MonthlyStatistics.png)
 
+### Student Page
 As a student I want to access a calendar with all my bookings for the upcoming weeks.
 ![Calendar](PICs/Calendar.png)
 
+### Support Officer Pages
 As a support officer I want to modify the schedule of courses so that data is up-to-date.
 ![UpdateLectureList](PICs/UpdateLectureList.png)
 
