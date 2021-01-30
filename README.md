@@ -16,7 +16,7 @@ You can check the emails to localhost:8025 logging in with "francexi" and passwo
 
 ## Screenshot
 
-These are some snapshots of this WebApp; for utilizing the App entirely, you can do "docker-compose up" to run it.
+These are some snapshots of this WebApp; for utilizing the App entirely, you can do "docker-compose up".
 
 #### Login Page
 
