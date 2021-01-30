@@ -11,4 +11,4 @@ You can find preloaded account [here](./server/README.md).
 You can check the emails to localhost:8025 logging in with "francexi" and password "testpass"
 
 ## Screenshot
-![LoginPage](PICS/logInPage.png)
+![LoginPage](PICs/logInPage.png)
