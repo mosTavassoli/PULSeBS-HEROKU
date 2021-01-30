@@ -1,7 +1,7 @@
 # PULSeBS
 
 Pandemic University Lecture Seat Booking System.<br/>
-The web-based application formed on the Scrum process comprises six people in the group. It implements managing to book a seat for university lectures, including multiple authorized users. The chief achievement concerning this project is to represent the real-world scrum working environment equipped with new technologies.<br/>
+The web-based application formed on the Scrum process comprises six people in the group. It implements managing to book a seat for university lectures, including multiple authorized users. The chief achievement concerning this project is to represent the real-world scrum working environment equipped with new technologies.<br/><br/>
 Technologies used: React-JS, PHP, Agile, Jira, Git, SonarCloud, Cypress, Bootstrap, Material-UI, SQLite, Docker
 
 ## Run
